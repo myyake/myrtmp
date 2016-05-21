@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">rtmpJni</string>
+    <string name="init">init</string>
+    <string name="read">read</string>
+    <string name="write">"write"</string>
+    <string name="packet">packet</string>
+</resources>
